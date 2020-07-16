@@ -8,7 +8,7 @@ import { HeaderComponent } from './header/header.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { NotFoundComponent } from './not-found/not-found.component';
-import { MenuLoginComponent } from './menu/menu-login/menu-login.component';
+import { MenuLoginComponent } from './menu-login/menu-login.component';
 
 @NgModule({
   declarations: [
